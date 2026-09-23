@@ -33,5 +33,6 @@ void main() {
     Scanner trojkat  = new Scanner(System.in);
 
 
+
 }
 
