@@ -1,13 +1,27 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
 
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
-    }
+
+void main() {
+
+    Scanner scanner = new Scanner(System.in);
+//    System.out.println("ZADANIE 1");
+//    System.out.println("Podaj dodatnia liczbe calkowita: ");
+//    int liczba1 = scanner.nextInt();
+//
+//    System.out.println("Liczby nieparzyste:");
+//    for (int i = 1; i <= liczba1; i += 2) {
+//        System.out.print(i + " ");
+//    }
+//
+//    System.out.println();
+//    System.out.println();
+
+    System.out.println("Zadanie 2");
+    System.out.println("podaj dodatnia liczbe calkowita");
+    int liczba = scanner.nextInt();
+
+    System.out.println("Potęgi liczby:");
+    for (int i = 1; i < liczba; i );
+
 }
