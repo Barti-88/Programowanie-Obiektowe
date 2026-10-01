@@ -17,11 +17,28 @@ void main() {
 //    System.out.println();
 //    System.out.println();
 
-    System.out.println("Zadanie 2");
-    System.out.println("podaj dodatnia liczbe calkowita");
-    int liczba = scanner.nextInt();
+//    System.out.println("Zadanie 2");
+//    System.out.println("podaj dodatnia liczbe calkowita");
+//    int n = scanner.nextInt();
+//
+//    System.out.println("Potęgi liczby:");
+//    int liczba = 1;
+//
+//    while (liczba <= n) {
+//        System.out.println(liczba);
+//        liczba *= 2;
+//    }
+//
 
-    System.out.println("Potęgi liczby:");
-    for (int i = 1; i < liczba; i );
+
+    System.out.println("zadanie3");
+    System.out.println("Podaj liczbe wieksza od 0");
+    int liczba = scanner.nextInt();
+    int suma =
+    while (liczba > 0){
+
+    }
+
 
 }
+
